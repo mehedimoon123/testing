@@ -1,0 +1,5 @@
+git init 
+git status
+git add .
+$ git config --global user.name "mehedimoon123"
+$ git config --global user.email "mehedimoon123@gmail.com"
